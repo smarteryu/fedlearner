@@ -14,7 +14,6 @@
 
 # coding: utf-8
 
-import io
 import os
 import csv
 import queue
